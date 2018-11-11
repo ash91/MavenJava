@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-11T06:31:42Z" name="Suite" finished-at="2018-11-11T06:31:43Z" duration-ms="127">
+    <groups>
+    </groups>
+    <test started-at="2018-11-11T06:31:42Z" name="Test" finished-at="2018-11-11T06:31:43Z" duration-ms="127">
+      <class name="Andromeda.AppiumTest">
+        <test-method signature="Android()[pri:0, instance:Andromeda.AppiumTest@477b4cdf]" started-at="2018-11-11T06:31:43Z" name="Android" finished-at="2018-11-11T06:31:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method signature="Ios()[pri:0, instance:Andromeda.AppiumTest@477b4cdf]" started-at="2018-11-11T06:31:43Z" name="Ios" finished-at="2018-11-11T06:31:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ios -->
+      </class> <!-- Andromeda.AppiumTest -->
+      <class name="Andromeda.RestApiTest">
+        <test-method signature="DeleteCookies()[pri:0, instance:Andromeda.RestApiTest@6743e411]" started-at="2018-11-11T06:31:43Z" name="DeleteCookies" finished-at="2018-11-11T06:31:43Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCookies -->
+        <test-method signature="TrackCookies()[pri:0, instance:Andromeda.RestApiTest@6743e411]" started-at="2018-11-11T06:31:43Z" name="TrackCookies" finished-at="2018-11-11T06:31:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrackCookies -->
+      </class> <!-- Andromeda.RestApiTest -->
+      <class name="Andromeda.SeleniumTest">
+        <test-method signature="CloseBrowser()[pri:0, instance:Andromeda.SeleniumTest@3eb25e1a]" started-at="2018-11-11T06:31:43Z" name="CloseBrowser" finished-at="2018-11-11T06:31:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:Andromeda.SeleniumTest@3eb25e1a]" started-at="2018-11-11T06:31:43Z" name="OpenBrowser" finished-at="2018-11-11T06:31:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- Andromeda.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
